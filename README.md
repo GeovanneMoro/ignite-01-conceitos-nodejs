@@ -3,7 +3,7 @@
 
 Desafio do capítulo 1 da Trilha Node.js da Rocketseat.
 
-O desafio é criar uma aplicação para gerenciar tarefas(_todos_). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de _todos_.
+O desafio é criar uma aplicação para gerenciar tarefas (_todos_). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de _todos_.
 
 Checklist:
 -   Criar um novo _todo_;
